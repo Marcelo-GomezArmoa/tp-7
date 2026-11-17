@@ -94,3 +94,8 @@ Manejo de Errores Robusto: Cliente HTTP personalizado (fetchApi / ApiError) que 
 Gestión Asíncrona Eficiente: Caché, invalidación y reintentos automáticos manejados mediante TanStack Query.
 
 Relaciones M2M: Interfaz dedicada para asignar y remover múltiples categorías a cada producto de manera dinámica.
+
+
+# Link de Repositorio
+
+## (https://github.com/Marcelo-GomezArmoa/tp-7)
